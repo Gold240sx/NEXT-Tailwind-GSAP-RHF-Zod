@@ -11,4 +11,3 @@ Built as a ready-made template for all things difficult to integrate into a Stac
 -   Shadcn UI
 -   React-Hook-Form
 -   Zod
-# NEXT-Tailwind-GSAP-RHF-Zod

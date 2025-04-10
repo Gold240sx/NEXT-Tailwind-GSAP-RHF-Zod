@@ -1,0 +1,8 @@
+@inovadev:registry=https://registry.npmjs.org/
+//registry.npmjs.org/:_authToken=${NPM_TOKEN}
+legacy-peer-deps=true
+public-hoist-pattern[]=*@inovadev/*
+shamefully-hoist=true
+
+# Replace ${NPM_TOKEN} with your actual NPM token
+# You can generate one at https://www.npmjs.com/settings/[username]/tokens 
